@@ -13,5 +13,3 @@ PyPackQT is a desktop application built with PyQt for packaging Python scripts i
 - Python 3.x
 - PyQt5
 - PyInstaller (Already in directory.)
-
-## Installation
