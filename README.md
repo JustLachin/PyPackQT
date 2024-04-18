@@ -2,7 +2,7 @@
 
 PyPackQT is a desktop application built with PyQt for packaging Python scripts into standalone executables using PyInstaller.
 
-#DOWNLOAD HERE (V1.0) --> [https://github.com/JustLachin/PyPackQT/releases/download/v1.0/PyPackQT-v1.0.zip](https://github.com/JustLachin/PyPackQT/releases/download/v1.0/PyPackQT-v1.0.zip)
+# DOWNLOAD HERE (V1.0) --> [https://github.com/JustLachin/PyPackQT/releases/download/v1.0/PyPackQT-v1.0.zip](https://github.com/JustLachin/PyPackQT/releases/download/v1.0/PyPackQT-v1.0.zip)
 
 ## Features
 
